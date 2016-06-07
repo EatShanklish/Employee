@@ -7,7 +7,7 @@ public class EmployeeMain
 	public static void main(String[] args) 
 	{
 		
-		
+		//bullshit
 		Scanner scan = new Scanner(System.in);
 		
 		employee employer = new employee();
